@@ -1,0 +1,23 @@
+{
+  "name": "async-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/muchigora/JS-Async-Functions.git"
+  },
+  "author": "MC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muchigora/JS-Async-Functions/issues"
+  },
+  "homepage": "https://github.com/muchigora/JS-Async-Functions#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0"
+  }
+}
